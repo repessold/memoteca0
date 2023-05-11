@@ -9,24 +9,16 @@
 
 .acoes {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
+  justify-content: space-between;
   padding: 5px;
 }
 
-
-/* .acoes {
-  display: flex;
-}*/
-
 .botao {
-  margin: 5px;
-  margin-top: 0px 15px;
   width: 300px;
   background-color: #154580;
   border: 1px solid #154580;
   border-radius: 6px;
+
 }
 
 .criar-pensamentos {
